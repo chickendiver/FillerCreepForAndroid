@@ -9,7 +9,9 @@ License
 =======
 
 Copyright 2013 Abram Hindle
+<<<<<<< HEAD
 Copyright 2014 Bradley Poulette
+>>>>>>> 33b8c07189a4c12e8582a719c7e1cb86a5d7f84f
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
